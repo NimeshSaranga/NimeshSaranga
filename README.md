@@ -8,7 +8,7 @@
 <p align="left">
 
 <h3>👋 My Name is Nimesh Saranga, I'm from Sri Lanka </h3>
-
+<br>
 🎓 Undergraduate at The Open University of Sri Lanka 
 
 <div>
