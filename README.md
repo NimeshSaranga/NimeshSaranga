@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🎓 Undergraduate at The Open University of Sri Lanka,
+- 🎓 Undergraduate at The Open University of Sri Lanka
 - 🌱 I’m currently learning Java, Python, Html, Nextjs and Sql
 - 👯 I’m looking to collaborate on student projects, open-source work, and innovative IT solutions 
 - 🤔 I’m looking for help with system design & improving problem-solving skills
