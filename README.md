@@ -4,7 +4,7 @@
 
 <h1 align="left"> My Name is Nimesh Saranga, I'm from Sri Lanka.</h1>
 
-### <h2 align="left"><b>About me</b></h2> 
+### <h1 align="left"><b>About me</b></h1> 
 
 
 <p align="left">
@@ -33,7 +33,7 @@
 
 ###
 
-### <h2 align="left"><b>Skills</b></h2>
+### <h1 align="left"><b>Skills</b></h2>
 
 ###
 
@@ -85,7 +85,7 @@
 
 ###
 
-### <h2 align="left"><b>Follow me</b></h2>
+### <h1 align="left"><b>Follow me</b></h1>
 
 ###
 <p align="center">
