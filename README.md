@@ -1,4 +1,4 @@
-<h1 align="left">Hey👋, I'm Nimesh</h1>
+<h1 align="center">Hey👋, I'm Nimesh</h1>
 
 <p align="justify"><h4> My name is Nimesh Saranga and I'm from Sri Lanka.</h4></p>
 
