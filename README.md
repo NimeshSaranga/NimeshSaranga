@@ -14,7 +14,7 @@
 
 - 🎓 Undergraduate at The Open University of Sri Lanka
 - 🌱 Currently learning  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Java • Python • HTML • Next.js • SQL  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Java • Python • HTML • Next.js • SQL ect...
 
 - 👯 Looking to collaborate on  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Student projects • Open-source • Innovative IT solutions  
