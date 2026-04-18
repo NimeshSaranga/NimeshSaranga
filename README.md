@@ -2,13 +2,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C853,100:7C4DFF&height=200&section=header&text=Hey%20👋%20I'm%20Nimesh&fontSize=35&fontColor=ffffff" />
 </p>
 
+<h3 align="left"> My Name is Nimesh Saranga, I'm from Sri Lanka.</h3>
 
 ### <h2 align="left"><b>About me</b></h2> 
 
 
 <p align="left">
-
-<h3 align="left"> My Name is Nimesh Saranga, I'm from Sri Lanka.</h3>
 
 🎓 Undergraduate at The Open University of Sri Lanka 
 
