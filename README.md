@@ -1,5 +1,6 @@
 <p align="left">
-  <img src="header.svg" alt="Hey, I'm Nimesh" width="600" />
+  <img src="https://raw.githubusercontent.com/NimeshSaranga/NimeshSaranga
+/main/header.svg" alt="Hey, I'm Nimesh" width="600" />
 </p>
 
 <p align="justify"><h4> My name is Nimesh Saranga and I'm from Sri Lanka.</h4></p>
