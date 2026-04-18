@@ -12,24 +12,12 @@
   <img align="right" width="35%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
 
-- 🎓 Undergraduate at The Open University of Sri Lanka 
-
-- 🌱 Currently learning  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Java   <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Python  <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• HTML/CSS <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Next.js <br> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• SQL ect... 
-
-- 👯 Looking to collaborate on  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Student projects  <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Open-source  <br> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Innovative IT solutions <br>
-
-- 🤔 Seeking help with  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• System design & Problem-solving <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• IT Solutions for Real-World Problems
-
+- 👋 Hi, I'm Nimesh Saranga from Sri Lanka
+- 🎓 Undergraduate at The Open University of Sri Lanka
+- 💻 Passionate about building solutions for real-world IT problems
+- 🌱 Currently learning: Java, Python, HTML, Next.js, SQL ect...
+- 👯 Open to collaborating on student projects, open-source, and innovative ideas
+- 🤔 Interested in improving system design and problem-solving skills
 - 📫 How to reach me:- <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• ✉️ Email  &nbsp;&nbsp;&nbsp;&nbsp;saranganimesh325@gmail.com  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• 🔗 LinkedIn  &nbsp;&nbsp;&nbsp;&nbsp;[Nimesh Saranga](https://www.linkedin.com/in/nimesh-saranga-073315349)  
