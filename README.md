@@ -33,18 +33,10 @@
 
 
 ## 📊 GitHub Stats
-<p align="center">
-  <a href="https://github.com/NimeshSaranga">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NimeshSaranga&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="NimeshSaranga's GitHub Stats" />
-<a href="https://github.com/NimeshSaranga">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NimeshSaranga&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
-
-<p align="center">
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=NimeshSaranga&theme=radical&hide_border=true&cache_seconds=86400" alt="NimeshSaranga's GitHub Streak" width="49%" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats-two-zeta-13.vercel.app/api?username=NimeshSaranga&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats-two-zeta-13.vercel.app/api/top-langs?username=NimeshSaranga&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 
 ## 🛠️ Languages & Tools
