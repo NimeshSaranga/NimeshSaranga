@@ -7,7 +7,7 @@
 
 <p align="left">
 
-<h4> My Name is Nimesh Saranga, I'm from Sri Lanka </h4>
+<h4>👋 My Name is Nimesh Saranga, I'm from Sri Lanka </h4>
 
 🎓 Undergraduate at The Open University of Sri Lanka 
 
