@@ -7,11 +7,11 @@
 
 ###
 
+<h2 align="left">About me</h2> 
+
 <div>
   <img align="right" width="30%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
-
-<h2 align="left">About me</h2>
 
 ###
 
