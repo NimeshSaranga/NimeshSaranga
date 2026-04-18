@@ -75,14 +75,22 @@
 
 ###
 
-<table>
-  <tr>
-    <td><a href="https://www.linkedin.com/in/nimesh-saranga-073315349"><img width="52" height="40" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"/></a></td>
-    <td><a href="https://discord.gg/vV2kumCW"><img width="52" height="40" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg"/></a></td>
-    <td><a href="https://youtube.com/@nimesh_saranga?si=6tikozeaOS-c64N9"><img width="52" height="40" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg"/></a></td>
-    <td><a href="mailto:saranganimesh325@gmail.com"><img width="52" height="40" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"/></a></td>
-    <td><a href="https://t.me/Nimeshsaranga"><img width="52" height="40" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg"/></a></td>
-  </tr>
-</table>
+<p align="left">
+  <a href="https://www.linkedin.com/in/nimesh-saranga-073315349">
+    <img width="52" height="40" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="LinkedIn"/>
+  </a>
+  <a href="https://discord.gg/vV2kumCW">
+    <img width="52" height="40" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" alt="Discord"/>
+  </a>
+  <a href="https://youtube.com/@nimesh_saranga?si=6tikozeaOS-c64N9">
+    <img width="52" height="40" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" alt="YouTube"/>
+  </a>
+  <a href="mailto:saranganimesh325@gmail.com">
+    <img width="52" height="40" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" alt="Gmail"/>
+  </a>
+  <a href="https://t.me/Nimeshsaranga">
+    <img width="52" height="40" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" alt="Telegram"/>
+  </a>
+</p>
 
 ###
