@@ -17,18 +17,18 @@
 
 
 🌱 Currently learning  
-&nbsp;&nbsp;&nbsp;&nbsp;• Java • Python • HTML • Next.js • SQL  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Java • Python • HTML • Next.js • SQL  
 
 👯 Looking to collaborate on  
-&nbsp;&nbsp;&nbsp;&nbsp;• Student projects • Open-source • Innovative IT solutions  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Student projects • Open-source • Innovative IT solutions  
 
 🤔 Seeking help with  
-&nbsp;&nbsp;&nbsp;&nbsp;• System design & Problem-solving
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• System design & Problem-solving
 
 📫 How to reach me:- <br>
-&nbsp;&nbsp;&nbsp;&nbsp;• ✉️ Email  &nbsp;&nbsp;&nbsp;&nbsp;saranganimesh325@gmail.com  
-&nbsp;&nbsp;&nbsp;&nbsp;• 🔗 LinkedIn  &nbsp;&nbsp;&nbsp;&nbsp;[Nimesh Saranga](https://www.linkedin.com/in/nimesh-saranga-073315349)  
-&nbsp;&nbsp;&nbsp;&nbsp;• 🐙 GitHub  &nbsp;&nbsp;&nbsp;&nbsp;[NimeshSaranga](https://github.com/NimeshSaranga) 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• ✉️ Email  &nbsp;&nbsp;&nbsp;&nbsp;saranganimesh325@gmail.com  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• 🔗 LinkedIn  &nbsp;&nbsp;&nbsp;&nbsp;[Nimesh Saranga](https://www.linkedin.com/in/nimesh-saranga-073315349)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• 🐙 GitHub  &nbsp;&nbsp;&nbsp;&nbsp;[NimeshSaranga](https://github.com/NimeshSaranga) 
 
 
 ###
