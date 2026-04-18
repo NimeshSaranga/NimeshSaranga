@@ -7,24 +7,12 @@
 </p>
 
 ## 📌 About Me
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
 - 👋 Hi, I'm **Nimesh Saranga** from Sri Lanka  
 - 🎓 Undergraduate at The Open University of Sri Lanka  
 - 💻 Passionate about building solutions for real-world IT problems  
 - 🌱 Currently learning: Java, Python, HTML, Next.js, SQL etc...  
 - 👯 Open to collaborating on student projects, open-source, and innovative ideas  
 - 🤔 Interested in improving system design and problem-solving skills  
-
-    </td>
-    <td width="50%">
-      <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%" />
-    </td>
-  </tr>
-</table>
 
 ## 🧠 My Focus Areas
 - IT Solutions for Real-World Problems 💡
