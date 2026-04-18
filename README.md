@@ -21,16 +21,12 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Student projects • Open-source • Innovative IT solutions  
 
 - 🤔 Seeking help with  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• System design & Problem-solving
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• System design & Problem-solving • IT Solutions for Real-World Problems
 
 - 📫 How to reach me:- <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• ✉️ Email  &nbsp;&nbsp;&nbsp;&nbsp;saranganimesh325@gmail.com  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• 🔗 LinkedIn  &nbsp;&nbsp;&nbsp;&nbsp;[Nimesh Saranga](https://www.linkedin.com/in/nimesh-saranga-073315349)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• 🐙 GitHub  &nbsp;&nbsp;&nbsp;&nbsp;[NimeshSaranga](https://github.com/NimeshSaranga)  
-
-## 🧠 My Focus Areas
-- IT Solutions for Real-World Problems 💡
-
 
 ## 📊 GitHub Stats
 <div align="center">
