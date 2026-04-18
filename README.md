@@ -12,7 +12,7 @@
 🎓 Undergraduate at The Open University of Sri Lanka 
 
 <div>
-  <img align="right" width="30%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+  <img align="right" width="35%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
 
 
