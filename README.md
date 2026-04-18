@@ -1,13 +1,9 @@
 <h1 align="left">Hey👋, I'm Nimesh</h1>
 
-###
+<p align="justify"><h4> My name is Nimesh Saranga and I'm from Sri Lanka.</h4></p>
 
 
-<p align="left"><h4> My name is Nimesh Saranga and I'm from Sri Lanka.</h4></p>
-
-###
-
-<h2 align="left">About me</h2> 
+### <h2 align="left">About me</h2> 
 
 ###
 
@@ -15,7 +11,7 @@
 🎓 Undergraduate at The Open University of Sri Lanka 
 
 <div>
-  <img align="right" width="28%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+  <img align="right" width="29%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
 
 
@@ -36,7 +32,7 @@
 
 ###
 
-<h2 align="left">Skills</h2>
+### <h2 align="left">Skills</h2>
 
 ###
 
@@ -88,7 +84,7 @@
 
 ###
 
-<h2 align="center">Follow Me</h2>
+### <h2 align="center">Follow Me</h2>
 
 ###
 <p align="center">
