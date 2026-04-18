@@ -2,9 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C853,100:7C4DFF&height=200&section=header&text=Hey%20👋%20I'm%20Nimesh&fontSize=35&fontColor=ffffff" />
 </p>
 
-<h3 align="left"> My Name is Nimesh Saranga, I'm from Sri Lanka.</h3>
+<h4 align="left"> My Name is Nimesh Saranga, I'm from Sri Lanka.</h4>
 
-### <h2 align="center"><b>About me</b></h2> 
+### <h2 align="left"><b>About me</b></h2> 
 
 
 <p align="left">
@@ -33,7 +33,7 @@
 
 ###
 
-### <h2 align="center"><b>Skills</b></h2>
+### <h2 align="left"><b>Skills</b></h2>
 
 ###
 
@@ -85,7 +85,7 @@
 
 ###
 
-### <h2 align="center"><b>Follow Me</b></h2>
+### <h2 align="left"><b>Follow me</b></h2>
 
 ###
 <p align="center">
