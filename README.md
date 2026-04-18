@@ -34,8 +34,7 @@
 <p align="center">
   <a href="https://github.com/NimeshSaranga">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NimeshSaranga&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="NimeshSaranga's GitHub Stats" />
-
-  <a href="https://github.com/NimeshSaranga">
+<a href="https://github.com/NimeshSaranga">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NimeshSaranga&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
   </a>
 </p>
