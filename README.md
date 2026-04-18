@@ -11,7 +11,6 @@
 <div>
   <img align="right" width="35%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
-
 - 👋 Hi, I'm Nimesh Saranga from Sri Lanka
 - 🎓 Undergraduate at The Open University of Sri Lanka
 - 💻 Passionate about building solutions for real-world IT problems
