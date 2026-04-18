@@ -9,14 +9,15 @@
 
 <h2 align="left">About me</h2> 
 
-<div>
-  <img align="right" width="27%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
-</div>
-
 ###
 
 <p align="left">
-🎓 Undergraduate at The Open University of Sri Lanka  
+🎓 Undergraduate at The Open University of Sri Lanka 
+
+<div>
+  <img align="right" width="28%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+</div>
+
 
 🌱 Currently learning  
 &nbsp;&nbsp;&nbsp;&nbsp;• Java • Python • HTML • Next.js • SQL  
