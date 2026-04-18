@@ -75,28 +75,14 @@
 
 ###
 
-<div style="display: flex; gap: 10px; align-items: center; flex-wrap: nowrap;">
-  
-  <a href="https://www.linkedin.com/in/nimesh-saranga-073315349" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-  </a>
-
-  <a href="https://discord.gg/vV2kumCW" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
-  </a>
-
-  <a href="https://youtube.com/@nimesh_saranga?si=6tikozeaOS-c64N9" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo" />
-  </a>
-
-  <a href="mailto:saranganimesh325@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
-  </a>
-
-  <a href="https://t.me/Nimeshsaranga" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo" />
-  </a>
-
-</div>
+<table>
+  <tr>
+    <td><a href="https://www.linkedin.com/in/nimesh-saranga-073315349"><img width="52" height="40" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"/></a></td>
+    <td><a href="https://discord.gg/vV2kumCW"><img width="52" height="40" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg"/></a></td>
+    <td><a href="https://youtube.com/@nimesh_saranga?si=6tikozeaOS-c64N9"><img width="52" height="40" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg"/></a></td>
+    <td><a href="mailto:saranganimesh325@gmail.com"><img width="52" height="40" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"/></a></td>
+    <td><a href="https://t.me/Nimeshsaranga"><img width="52" height="40" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg"/></a></td>
+  </tr>
+</table>
 
 ###
