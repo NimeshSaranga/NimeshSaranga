@@ -29,10 +29,8 @@
 ## 📊 GitHub Stats
 <p align="center">
   <a href="https://github.com/NimeshSaranga">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NimeshSaranga&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="NimeshSaranga's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NimeshSaranga&cache_seconds=7200&layout=compact&theme=merko&border_radius=10" alt="NimeshSaranga's GitHub Stats" />
   </a>
-  
-   <img src="https://github-readme-stats-two-zeta-13.vercel.app/api/top-langs?username=NimeshSaranga&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </p>
 
 
