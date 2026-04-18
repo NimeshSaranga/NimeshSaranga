@@ -14,7 +14,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp; • ✉️ Email: <a href="mailto:saranganimesh325@gmail.com">saranganimesh325@gmail.com</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp; • 🔗 LinkedIn: <a href="https://www.linkedin.com/in/nimesh-saranga-073315349/">My LinkedIn Profile</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp; • 🐙 GitHub: <a href="https://github.com/NimeshSaranga">NimeshSaranga</a> <br> 
-😄 Pronouns: He/Him<br>⚡ Fun fact: Balancing university life while building real projects is my daily challenge</p>
+😄 Pronouns: He/Him<br>
 
 ###
 
