@@ -1,5 +1,5 @@
-<p align="left">
-  <img src="https://profile-counter.glitch.me/NimeshSaranga/call?template=github_stats&base=NimeshSaranga&text=Hey👋,+I'm+Nimesh" alt="Hey, I'm Nimesh" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C853,100:7C4DFF&height=200&section=header&text=Hey%20👋%20I'm%20Nimesh&fontSize=35&fontColor=ffffff" />
 </p>
 
 <p align="justify"><h4> My name is Nimesh Saranga and I'm from Sri Lanka.</h4></p>
