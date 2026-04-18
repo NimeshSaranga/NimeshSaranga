@@ -9,11 +9,11 @@
 
 <h3>👋 My Name is Nimesh Saranga, I'm from Sri Lanka </h3> <br>
 
-🎓 Undergraduate at The Open University of Sri Lanka 
-
 <div>
   <img align="right" width="35%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
+
+🎓 Undergraduate at The Open University of Sri Lanka 
 
 
 🌱 Currently learning  
