@@ -24,21 +24,7 @@
 - 📫 How to reach me:- <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• ✉️ Email  &nbsp;&nbsp;&nbsp;&nbsp;saranganimesh325@gmail.com  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• 🔗 LinkedIn  &nbsp;&nbsp;&nbsp;&nbsp;[Nimesh Saranga](https://www.linkedin.com/in/nimesh-saranga-073315349)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• 🐙 GitHub  &nbsp;&nbsp;&nbsp;&nbsp;[NimeshSaranga](https://github.com/NimeshSaranga)  
-
-## 📊 GitHub Stats
-<p align="center">
-  <a href="https://github.com/NimeshSaranga">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NimeshSaranga&cache_seconds=7200&layout=compact&theme=merko&border_radius=10" alt="NimeshSaranga's GitHub Stats" />
-  </a>
-</p>
-
-## 🛠️ Languages & Tools
-<p align="center">
-  <a href="https://github.com/NimeshSaranga">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NimeshSaranga&langs_count=8&layout=compact&theme=dracula&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• 🐙 GitHub  &nbsp;&nbsp;&nbsp;&nbsp;[NimeshSaranga](https://github.com/NimeshSaranga)
 
 
 ## 🛠️ Skills
@@ -55,12 +41,27 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" />
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
   <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" />&nbsp;&nbsp;
+</p>
+
+
+## 📊 GitHub Stats
+<p align="center">
+  <a href="https://github.com/NimeshSaranga">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NimeshSaranga&cache_seconds=7200&layout=compact&theme=merko&border_radius=10" alt="NimeshSaranga's GitHub Stats" />
+  </a>
+</p>
+
+## 🛠️ Languages & Tools
+<p align="center">
+  <a href="https://github.com/NimeshSaranga">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NimeshSaranga&langs_count=8&layout=compact&theme=dracula&border_radius=10" alt="Top Languages" />
+  </a>
 </p>
 
 
