@@ -49,11 +49,9 @@
 </p>
 
 
-## 📊 GitHub Status
+## 📊 GitHub Stats
 <p align="center">
-  <a href="https://github.com/NimeshSaranga">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NimeshSaranga&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="NimeshSaranga's GitHub Stats" />
-  </a>
+<img src="https://github-readme-stats.vercel.app/api?username=NimeshSaranga&theme=blue-green&show_icons=true&hide_border=false&count_private=true" alt="NimeshSaranga's GitHub Stats" />
 </p>
 
 ## 🛠️ Languages & Tools
