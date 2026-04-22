@@ -49,7 +49,7 @@
 </p>
 
 
-## 📊 GitHub Stats
+## 📊 GitHub Status
 <p align="center">
   <a href="https://github.com/NimeshSaranga">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NimeshSaranga&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="NimeshSaranga's GitHub Stats" />
