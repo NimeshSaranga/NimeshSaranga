@@ -22,8 +22,8 @@
 - 🤔 Seeking help with  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• System design & Problem-solving
 - 📫 How to reach me:- <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• ✉️ Email  &nbsp;&nbsp;&nbsp;&nbsp;saranganimesh325@gmail.com  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• 🔗 LinkedIn  &nbsp;&nbsp;&nbsp;&nbsp;[Nimesh Saranga](https://www.linkedin.com/in/nimesh-saranga-073315349)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• ✉️ Email   &nbsp;&nbsp;&nbsp;&nbsp;saranganimesh325@gmail.com  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• 🔗 LinkedIn&nbsp;&nbsp;&nbsp;&nbsp;[Nimesh Saranga](https://www.linkedin.com/in/nimesh-saranga-073315349)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• 🐙 GitHub  &nbsp;&nbsp;&nbsp;&nbsp;[NimeshSaranga](https://github.com/NimeshSaranga)
 
 
