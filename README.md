@@ -51,15 +51,17 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats-two-zeta-13.vercel.app/api?username=NimeshSaranga&theme=blue-green&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800" alt="NimeshSaranga's GitHub Stats" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats-two-zeta-13.vercel.app/api?username=NimeshSaranga&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
+</div>
+
 
 ## 🛠️ Languages & Tools
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-two-zeta-13.vercel.app/api/top-langs/?username=NimeshSaranga&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800" alt="Top Languages" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats-two-zeta-13.vercel.app/api/top-langs?username=NimeshSaranga&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=chartreuse-dark&hide_border=false&order=2" height="450" alt="languages graph"  />
+</div>
+
 
 
 ## 🔗 Connect with Me
