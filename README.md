@@ -74,14 +74,14 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-two-zeta-13.vercel.app/api?username=NimeshSaranga&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
+  <img src="https://github-readme-stats-automatic-updat.vercel.app/api?username=NimeshSaranga&show_icons=true&include_all_commits=true&count_private=true&theme=chartreuse-dark&hide_border=false&rank_icon=github" height="250" alt="GitHub stats" />
 </div>
 
 
 ## 🛠️ Languages & Tools
 
 <div align="center">
-  <img src="https://github-readme-stats-two-zeta-13.vercel.app/api/top-langs?username=NimeshSaranga&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=chartreuse-dark&hide_border=false&order=2" height="450" alt="languages graph"  />
+  <img src="https://github-readme-stats-automatic-updat.vercel.app/api/top-langs?username=NimeshSaranga&layout=compact&langs_count=50&count_private=true&include_all_commits=true&theme=chartreuse-dark&hide_border=false" height="450" />
 </div>
 
 
