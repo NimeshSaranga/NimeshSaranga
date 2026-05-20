@@ -74,13 +74,13 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-topaz-five-72.vercel.app/api?username=NimeshSaranga&show_icons=true&include_all_commits=true&count_private=true&theme=chartreuse-dark&hide_border=false&rank_icon=github&cache_seconds=1800" height="250" />
+  <img src="https://github-readme-stats-gamma-sage-74.vercel.app/api?username=NimeshSaranga&show_icons=true&include_all_commits=true&count_private=true&theme=chartreuse-dark&rank_icon=github&cache_seconds=1800&v=2" height="250"/>
 </div>
 
 ## 🛠️ Languages & Tools
 
 <div align="center">
-  <img src="https://github-readme-stats-topaz-five-72.vercel.app/api/top-langs?username=NimeshSaranga&layout=compact&langs_count=50&count_private=true&include_all_commits=true&theme=chartreuse-dark&hide_border=false&cache_seconds=1800" height="450" />
+  <img src="https://github-readme-stats-gamma-sage-74.vercel.app/api/top-langs?username=NimeshSaranga&layout=compact&langs_count=50&count_private=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=1800&v=2" height="450"/>
 </div>
 
 
