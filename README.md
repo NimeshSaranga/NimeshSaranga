@@ -90,7 +90,7 @@
   <a href="https://www.linkedin.com/in/nimesh-saranga-073315349"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Nimesh Saranga's LinkedIn"/></a>&nbsp;&nbsp;
   <a href="https://www.youtube.com/channel/UCUjrPmEx6czZwtiTRzPXuEA"><img align="center" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white&color=FF00FF" alt="Nimesh Saranga's YouTube"/></a>&nbsp;&nbsp;
   <a href="mailto:saranganimesh325@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Nimesh Saranga's Email"/></a>&nbsp;&nbsp;
-  <a href="https://itwithnimesh.42web.io"><img align="center" src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/></a>
+  <a href="https://devsonix.me"><img align="center" src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/></a>
 </p>
 
 ---
