@@ -37,7 +37,7 @@
   <p><i>A curated showcase of programming languages, frameworks, cloud platforms, and engineering tools I leverage to build robust, scalable applications.</i></p>
 </div>
 
-<h3 align="center">💻 Languages</h3>
+<h3 align="center">💻 Languages</h3> <br>
 
 <div align="center">
   <p align="center">
@@ -79,9 +79,9 @@
     <sub><b>HTML5</b></sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <sub><b>CSS3</b></sub>
   </p>
-</div>
+</div> <br> <br>
 
-<h3 align="center">🌐 Frameworks & Libraries</h3>
+<h3 align="center">🌐 Frameworks & Libraries</h3> <br>
 
 <div align="center">
   <p align="center">
@@ -109,9 +109,9 @@
     <br>
     <sub><b>Bootstrap</b></sub>
   </p>
-</div>
+</div> <br> <br>
 
-<h3 align="center">🗄️ Databases</h3>
+<h3 align="center">🗄️ Databases</h3> <br>
 
 <div align="center">
   <p align="center">
@@ -122,10 +122,10 @@
     <sub><b>MySQL</b></sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <sub><b>SQLite</b></sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <sub><b>Cloudflare D1</b></sub>
-  </p>
-</div>
+  </p> 
+</div> <br> <br>
 
-<h3 align="center">☁️ Cloud & Platforms</h3>
+<h3 align="center">☁️ Cloud & Platforms</h3> <br>
 
 <div align="center">
   <p align="center">
@@ -145,9 +145,9 @@
     <sub><b>Cloudflare Pages</b></sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <sub><b>Cloudflare Workers</b></sub>
   </p>
-</div>
+</div> <br> <br>
 
-<h3 align="center">🛠️ Development Tools</h3>
+<h3 align="center">🛠️ Development Tools</h3> <br>
 
 <div align="center">
   <p align="center">
@@ -173,9 +173,9 @@
     <sub><b>Apache</b></sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <sub><b>Wrangler</b></sub>
   </p>
-</div>
+</div> <br> <br>
 
-<h3 align="center">📱 Mobile & Hardware</h3>
+<h3 align="center">📱 Mobile & Hardware</h3> <br>
 
 <div align="center">
   <p align="center">
@@ -185,9 +185,9 @@
     <sub><b>Android</b></sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <sub><b>Arduino</b></sub>
   </p>
-</div>
+</div> <br> <br>
 
-<h3 align="center">🤖 AI / Generative AI</h3>
+<h3 align="center">🤖 AI / Generative AI</h3> <br>
 
 <div align="center">
   <p align="center">
