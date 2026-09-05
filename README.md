@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20,29&text=Nimesh%20Saranga&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20IT%20Undergraduate&descSize=18&descAlignY=60&textBg=false" width="100%" alt="Nimesh Saranga Banner" />
 
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=550&lines=Full-Stack+Software+Developer;Undergraduate+%40+Open+University+of+Sri+Lanka;Passionate+Problem+Solver+%26+Builder;Architecting+Modern+Web+%26+Digital+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=550&lines=Full-Stack+Developer;Undergraduate+%40+Open+University+of+Sri+Lanka;Passionate+Problem+Solver+%26+Builder;Architecting+Modern+Tech+%26+Digital+Solutions" alt="Typing SVG" />
   </a>
 
 </div>
