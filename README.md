@@ -12,10 +12,9 @@
 
 <div align="center">
 
-👋 Hey, I'm Nimesh Saranga
-Full-stack Developer · IT Undergraduate · Building modern web experiences and practical software solutions.
+👋 Hey, I'm Nimesh Saranga · Full-stack Developer · IT Undergraduate · Building modern web experiences and practical software solutions.
 
-<a href="https://devsonix.com"><img src="https://img.shields.io/badge/DevSonix-Premium%20IT%20Solutions-2563EB?style=for-the-badge" alt="DevSonix" /></a>
+<a href="https://devsonix.com"><img src="https://img.shields.io/badge/DevSonix-Premium%20IT%20Solutions-2563EB?style=for-the-badge" alt="DevSonix" /></a> 
 <a href="https://github.com/NimeshSaranga"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub profile" /></a>
 <a href="https://github.com/sponsors/NimeshSaranga"><img src="https://img.shields.io/badge/Sponsor-My%20Journey-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor my journey" /></a>
 </div>
