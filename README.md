@@ -32,7 +32,6 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• 🐙 GitHub &nbsp;&nbsp;&nbsp;&nbsp;[NimeshSaranga](https://github.com/NimeshSaranga)
 
 ## 🛠️ Tech Stack
-<h2 align="center">🧰 Tech Stack</h2>
 <p align="center"><i>Tools and technologies I use to learn, build, and ship software.</i></p>
 
 <table>
